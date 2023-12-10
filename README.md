@@ -17,6 +17,6 @@
   <div> 
   <a href="https://www.instagram.com/vspeedcuber/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/vitor-gusm%C3%A3o-a9155b202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>   
- 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+    
+  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
  </div>
