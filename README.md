@@ -73,9 +73,7 @@ Skills</b>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </p>
-<br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### Contacts:
 
 <a href="https://www.instagram.com/vspeedcuber/" target="_blank">
