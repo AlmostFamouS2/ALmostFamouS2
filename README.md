@@ -4,7 +4,7 @@
 - 🖥️🔓🌐 I'm a 21 years old Hacker 
 <br>
 - 💻 I'm studying about <b> Web offensive security (DESEC) </b>, Blue Team , a little bit of Forensics bug bounty and a lot of passion by low-level and Reversing!  
-- 🎯Starte at 07/15/2021
+- 🎯Started at 07/15/2021
 </em>
 </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmostFamouS2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
